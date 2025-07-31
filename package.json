@@ -1,6 +1,7 @@
 {
   "name": "gate-prep-app",
   "version": "1.0.0",
+  "homepage": "https://adityakaran.github.io/gate-prep-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
